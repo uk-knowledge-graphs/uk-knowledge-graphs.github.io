@@ -1,0 +1,32 @@
+title: UK Knowledge Graphs Interest Group
+description: A UK community for knowledge graphs, bringing together research, practice and education.
+url: "https://uk-knowledge-graphs.github.io"
+baseurl: ""
+lang: en-GB
+markdown: kramdown
+permalink: pretty
+collections:
+  meetups:
+    output: true
+    permalink: /meetups/:name/
+  symposiums:
+    output: true
+    permalink: /symposiums/:name/
+defaults:
+  - scope:
+      path: ""
+      type: meetups
+    values:
+      layout: event
+      event_type: Meetup
+  - scope:
+      path: ""
+      type: symposiums
+    values:
+      layout: event
+      event_type: Symposium
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - _templates

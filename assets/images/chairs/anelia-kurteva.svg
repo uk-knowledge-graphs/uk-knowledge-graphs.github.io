@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360" role="img" aria-label="Portrait placeholder">
+  <rect width="360" height="360" fill="#e9d9d4"/>
+  <circle cx="280" cy="68" r="95" fill="#ffffff" opacity=".18"/>
+  <path d="M0 295 Q180 208 360 295 V360 H0Z" fill="#a47e78" opacity=".35"/>
+  <circle cx="180" cy="136" r="58" fill="#a47e78" opacity=".63"/>
+  <path d="M59 360 Q65 231 180 230 Q295 231 301 360Z" fill="#a47e78" opacity=".63"/>
+  <rect x="112" y="277" width="136" height="54" rx="27" fill="#e9d9d4" opacity=".89"/>
+  <text x="180" y="311" fill="#263b3e" text-anchor="middle" font-family="Arial,sans-serif" font-size="28" font-weight="700" letter-spacing="3">AK</text>
+</svg>

@@ -1,5 +1,0 @@
----
-layout: default
----
-<section class="page-hero"><div class="section-wrap"><p class="eyebrow">{{ page.event_type }}</p><h1>{{ page.title }}</h1><p class="event-meta">{% if page.date_label %}{{ page.date_label }}{% endif %}{% if page.location %} · {{ page.location }}{% endif %}{% if page.online %} · Online{% endif %}</p></div></section>
-<article class="section-wrap event-content"><p class="event-meta">{% if page.registration_url %}<a class="text-link" href="{{ page.registration_url }}">Registration / event link ↗</a>{% endif %}</p>{{ content }}{% if page.keynote %}<h2>Keynote</h2><p>{{ page.keynote }}</p>{% endif %}{% if page.speakers %}<h2>Speakers</h2><ul>{% for speaker in page.speakers %}<li>{{ speaker }}</li>{% endfor %}</ul>{% endif %}{% if page.sponsors %}<h2>Sponsors and supporters</h2><ul>{% for sponsor in page.sponsors %}<li>{{ sponsor }}</li>{% endfor %}</ul>{% endif %}</article>

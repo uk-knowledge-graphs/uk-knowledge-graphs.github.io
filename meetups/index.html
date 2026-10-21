@@ -1,0 +1,14 @@
+---
+layout: default
+title: Meet-ups
+description: Online meet-ups from the UK Knowledge Graphs Interest Group.
+permalink: /meetups/
+---
+<section class="page-hero"><div class="container"><span class="section-kicker">ONLINE / COMMUNITY</span><h1>Meet-ups.</h1><p class="lead">A space to share work, discover new ideas and connect across the knowledge graphs community — wherever you are.</p></div></section>
+<section class="section"><div class="container"><div class="section-heading"><div><span class="section-kicker">EVENTS</span><h2>Meet-up pages</h2></div><p>Open an event page for its programme and practical information.</p></div>
+<div class="listing">
+{% assign events = site.meetups | sort: 'order' | reverse %}
+{% for event in events %}
+<a class="listing-row" href="{{ event.url | relative_url }}"><span class="listing-type">{% if event.planning %}PLANNING PAGE{% else %}MEET-UP{% endif %}</span><div><h3>{{ event.title | escape }}</h3><p>{{ event.summary | escape }}</p></div><span class="listing-arrow" aria-hidden="true">↗</span></a>
+{% else %}<p>No meet-ups have been announced yet.</p>{% endfor %}
+</div></div></section>
