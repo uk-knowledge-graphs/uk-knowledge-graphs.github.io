@@ -1,0 +1,20 @@
+---
+layout: default
+title: UK Interest Group on Knowledge Graphs
+permalink: /
+---
+<section class="hero" id="about"><div class="hero-inner">
+  <p class="eyebrow">A UK-wide community · Supported by the Open Data Institute</p>
+  <h1>UK Interest Group<br><span>on Knowledge Graphs</span></h1>
+  <p class="hero-copy">Connecting researchers, practitioners and educators to advance knowledge graphs through shared ideas, events and teaching.</p>
+  <div class="hero-actions"><a class="button" href="{{ '/meetups/' | relative_url }}">Explore upcoming events</a><a class="text-link" href="#about-group">About the group ↓</a></div>
+  <div class="hero-tags"><span>Online meet-ups</span><span>In-person symposiums</span><span>Teaching resources</span></div>
+</div></section>
+<section class="intro section-wrap" id="about-group"><div><p class="eyebrow">About the group</p><h2>A place to connect, learn and share</h2></div><div class="intro-copy"><p>The UK Interest Group on Knowledge Graphs brings together people interested in the foundations, methods and applications of knowledge graphs. Relaunched with support from the Open Data Institute, the group builds on the UK community established through The Alan Turing Institute.</p><p>Our activities create space for discussion, collaboration and resource sharing across academia, industry, government and the wider community.</p></div></section>
+<section class="section-wrap activities" id="activities"><div class="section-heading"><div><p class="eyebrow">Get involved</p><h2>Meet, exchange, and learn</h2></div><p>Find a session, revisit a symposium, or use and contribute teaching material.</p></div><div class="feature-grid">
+<a class="feature-card" href="{{ '/meetups/' | relative_url }}"><span class="feature-number">01</span><h3>Online meet-ups</h3><p>Join talks and conversations with people working on knowledge graphs across the UK.</p><span class="card-link">View meet-ups <b>↗</b></span></a>
+<a class="feature-card" href="{{ '/symposiums/' | relative_url }}"><span class="feature-number">02</span><h3>In-person symposiums</h3><p>Explore symposium programmes, keynote speakers, agendas and sponsors.</p><span class="card-link">View symposiums <b>↗</b></span></a>
+<a class="feature-card" href="{{ '/teaching/' | relative_url }}"><span class="feature-number">03</span><h3>Teaching material</h3><p>Discover and share resources for learning and teaching knowledge graphs.</p><span class="card-link">Browse resources <b>↗</b></span></a>
+</div></section>
+<section class="chairs-section" id="chairs"><div class="section-wrap"><div class="section-heading"><div><p class="eyebrow">Community leadership</p><h2>Group chairs</h2></div><p>A cross-institutional team supporting the UK knowledge graph community.</p></div><div class="chair-grid">{% for chair in site.data.chairs %}<article class="chair-card"><a class="portrait" href="{{ chair.url }}" target="_blank" rel="noopener" aria-label="{{ chair.name }} — {{ chair.affiliation }}">{% if chair.photo %}<img src="{{ chair.photo | relative_url }}" alt="Portrait of {{ chair.name }}">{% else %}<span class="portrait-initials" aria-hidden="true">{{ chair.initials }}</span>{% endif %}</a><div class="chair-details"><h3><a href="{{ chair.url }}" target="_blank" rel="noopener">{{ chair.name }}</a></h3><p>{{ chair.affiliation }}</p></div></article>{% endfor %}</div><p class="image-guidance">Add approved portraits to <code>assets/images/chairs/</code> and set each <code>photo</code> path in <code>_data/chairs.yml</code>.</p></div></section>
+<section class="support section-wrap"><div><p class="eyebrow">With support from</p><h2>Open Data Institute</h2><p>The group is supported by the Open Data Institute and welcomes participation from across disciplines and sectors.</p><a class="text-link" href="https://theodi.org/" target="_blank" rel="noopener">Visit the ODI ↗</a></div><div class="support-badge"><span class="odi-mark">ODI</span><span>Open Data<br>Institute</span></div></section>

@@ -1,0 +1,7 @@
+---
+layout: default
+title: Online meet-ups
+permalink: /meetups/
+---
+<section class="page-hero"><div class="section-wrap"><p class="eyebrow">Connect online</p><h1>Meet-ups</h1><p>Online talks and conversations from the UK knowledge graph community. Each event has its own page for the agenda, speakers, links and supporting information.</p></div></section>
+<section class="section-wrap listing"><div class="event-list">{% assign events = site.meetups | sort: 'date' | reverse %}{% for event in events %}<a class="event-card" href="{{ event.url | relative_url }}"><span class="event-date">{{ event.date_label | default: event.date | date: '%d %B %Y' }}</span><span><h2>{{ event.title }}</h2><p>{{ event.excerpt | strip_html }}</p></span></a>{% else %}<p class="empty-note">Meet-up details will be added here. Create a Markdown file in the <code>_meetups</code> collection for each event.</p>{% endfor %}</div></section>

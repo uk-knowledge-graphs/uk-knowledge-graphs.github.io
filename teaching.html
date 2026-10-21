@@ -1,0 +1,7 @@
+---
+layout: default
+title: Teaching material
+permalink: /teaching/
+---
+<section class="page-hero"><div class="section-wrap"><p class="eyebrow">Learn and teach</p><h1>Teaching material</h1><p>A growing collection of resources to support knowledge graph education, from introductory materials to advanced topics.</p></div></section>
+<section class="section-wrap listing"><div class="resource-list">{% for resource in site.data.teaching %}<article class="resource"><h3><a href="{{ resource.url }}">{{ resource.title }}</a></h3><p>{{ resource.description }}{% if resource.author %} · {{ resource.author }}{% endif %}</p></article>{% else %}<p class="empty-note">Teaching resources will be added here. Maintain the list in <code>_data/teaching.yml</code>.</p>{% endfor %}</div></section>

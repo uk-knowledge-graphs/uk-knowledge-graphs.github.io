@@ -1,0 +1,7 @@
+---
+layout: default
+title: In-person symposiums
+permalink: /symposiums/
+---
+<section class="page-hero"><div class="section-wrap"><p class="eyebrow">Gather in person</p><h1>Symposiums</h1><p>Browse symposium programmes, agendas, keynote details, speakers and sponsors. Every symposium has a dedicated detail page.</p></div></section>
+<section class="section-wrap listing"><div class="event-list">{% assign events = site.symposiums | sort: 'date' | reverse %}{% for event in events %}<a class="event-card" href="{{ event.url | relative_url }}"><span class="event-date">{{ event.date_label | default: event.date | date: '%d %B %Y' }}{% if event.location %}<br>{{ event.location }}{% endif %}</span><span><h2>{{ event.title }}</h2><p>{{ event.excerpt | strip_html }}</p></span></a>{% else %}<p class="empty-note">Symposium details will be added here. Create a Markdown file in the <code>_symposiums</code> collection for each event.</p>{% endfor %}</div></section>
