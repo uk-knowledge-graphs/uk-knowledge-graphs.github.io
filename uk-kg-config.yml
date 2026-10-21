@@ -1,7 +1,7 @@
 title: UK Interest Group on Knowledge Graphs
 description: A UK community for knowledge graphs, supported by the Open Data Institute.
-url: "https://example.org"
-baseurl: ""
+url: "https://uk-knowledge-graphs.github.io/"
+baseurl: "https://uk-knowledge-graphs.github.io/"
 markdown: kramdown
 collections:
   meetups:
