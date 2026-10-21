@@ -1,14 +1,8 @@
 ---
-layout: default
-title: Symposiums
-description: In-person symposiums from the UK Knowledge Graphs Interest Group.
 permalink: /symposiums/
 ---
-<section class="page-hero"><div class="container"><span class="section-kicker">IN PERSON / COMMUNITY</span><h1>Symposiums.</h1><p class="lead">Time together for research exchange, fresh perspectives and meaningful connections around knowledge graphs.</p></div></section>
-<section class="section"><div class="container"><div class="section-heading"><div><span class="section-kicker">EVENTS</span><h2>Symposium pages</h2></div><p>Find agendas, keynote details, speakers and sponsors as they are confirmed.</p></div>
-<div class="listing">
-{% assign events = site.symposiums | sort: 'order' | reverse %}
-{% for event in events %}
-<a class="listing-row" href="{{ event.url | relative_url }}"><span class="listing-type">{% if event.planning %}PLANNING PAGE{% else %}SYMPOSIUM{% endif %}</span><div><h3>{{ event.title | escape }}</h3><p>{{ event.summary | escape }}</p></div><span class="listing-arrow" aria-hidden="true">↗</span></a>
-{% else %}<p>No symposiums have been announced yet.</p>{% endfor %}
-</div></div></section>
+<!doctype html>
+<html lang="en-GB">
+<head><meta charset="utf-8"><meta http-equiv="refresh" content="0; url={{ '/events/' | relative_url }}"><meta name="robots" content="noindex"><link rel="canonical" href="{{ '/events/' | absolute_url }}"><title>Events · UK Knowledge Graphs</title></head>
+<body><p>Meet-ups and symposiums have moved to <a href="{{ '/events/' | relative_url }}">Events</a>.</p></body>
+</html>

@@ -3,47 +3,49 @@ layout: default
 ---
 <section class="page-hero">
   <div class="container narrow">
-    <a class="eyebrow back" href="{% if page.event_type == 'Meetup' %}{{ '/meetups/' | relative_url }}{% else %}{{ '/symposiums/' | relative_url }}{% endif %}">← All {{ page.event_type | downcase }}s</a>
-    <span class="pill">{{ page.event_type }}</span>
+    <a class="eyebrow back" href="{{ '/events/' | relative_url }}">← All events</a>
+    {% if page.event_type %}<span class="pill">{{ page.event_type | escape }}</span>{% endif %}
     <h1>{{ page.title | escape }}</h1>
     {% if page.summary %}<p class="lead">{{ page.summary | escape }}</p>{% endif %}
-    {% if page.planning %}<p class="notice">Planning page — no date, programme or speakers have been confirmed.</p>{% endif %}
     <div class="event-meta">
-      <div><span>Date</span><strong>{{ page.event_date | default: 'To be announced' | escape }}</strong></div>
-      <div><span>Location</span><strong>{{ page.location | default: 'To be announced' | escape }}</strong></div>
-      <div><span>Format</span><strong>{{ page.format | default: 'To be announced' | escape }}</strong></div>
+      {% if page.event_date %}<div><span>Date</span><strong>{{ page.event_date | escape }}</strong></div>{% endif %}
+      {% if page.location %}<div><span>Location</span><strong>{{ page.location | escape }}</strong></div>{% endif %}
+      {% if page.format %}<div><span>Format</span><strong>{{ page.format | escape }}</strong></div>{% endif %}
     </div>
   </div>
 </section>
 <div class="container narrow event-body">
-  {% if content != "" %}<section class="prose">{{ content }}</section>{% endif %}
+  {% if page.registration_url %}<p><a class="button" href="{{ page.registration_url | escape }}">Register for this event</a></p>{% endif %}
+  {% if content != "" %}<div class="prose">{{ content }}</div>{% endif %}
+  {% if page.agenda and page.agenda.size > 0 %}
   <section class="event-section" aria-labelledby="agenda-title">
     <h2 id="agenda-title">Agenda</h2>
-    {% if page.agenda and page.agenda.size > 0 %}
-      {% if page.planning %}<p class="muted">Illustrative outline only; the programme will be confirmed later.</p>{% endif %}
-      <ol class="agenda">{% for item in page.agenda %}
-        <li><span class="agenda-time">{{ item.time | default: 'TBC' | escape }}</span><div><strong>{{ item.session | escape }}</strong>{% if item.details %}<p>{{ item.details | escape }}</p>{% endif %}</div></li>
-      {% endfor %}</ol>
-    {% else %}<p class="muted">The agenda will be published here when confirmed.</p>{% endif %}
+    <ol class="agenda">{% for item in page.agenda %}
+      <li><span class="agenda-time">{{ item.time | escape }}</span><div><strong>{{ item.session | escape }}</strong>{% if item.details %}<p>{{ item.details | escape }}</p>{% endif %}</div></li>
+    {% endfor %}</ol>
   </section>
+  {% endif %}
+  {% if page.keynote and page.keynote.name %}
   <section class="event-section" aria-labelledby="keynote-title">
     <h2 id="keynote-title">Keynote</h2>
-    {% if page.keynote and page.keynote.name %}
-      <p><strong>{{ page.keynote.name | escape }}</strong>{% if page.keynote.affiliation %} · {{ page.keynote.affiliation | escape }}{% endif %}</p>
-      {% if page.keynote.title %}<p>{{ page.keynote.title | escape }}</p>{% endif %}
-    {% else %}<p class="muted">Keynote details will be announced here.</p>{% endif %}
+    <p><strong>{{ page.keynote.name | escape }}</strong>{% if page.keynote.affiliation %} · {{ page.keynote.affiliation | escape }}{% endif %}</p>
+    {% if page.keynote.title %}<p>{{ page.keynote.title | escape }}</p>{% endif %}
   </section>
+  {% endif %}
+  {% if page.speakers and page.speakers.size > 0 %}
   <section class="event-section" aria-labelledby="speakers-title">
     <h2 id="speakers-title">Speakers</h2>
-    {% if page.speakers and page.speakers.size > 0 %}
-      <ul class="people-list">{% for person in page.speakers %}<li><strong>{{ person.name | escape }}</strong>{% if person.affiliation %}<span>{{ person.affiliation | escape }}</span>{% endif %}{% if person.topic %}<span>{{ person.topic | escape }}</span>{% endif %}</li>{% endfor %}</ul>
-    {% else %}<p class="muted">Speakers will be listed when confirmed.</p>{% endif %}
+    <ul class="people-list">{% for person in page.speakers %}
+      <li><strong>{{ person.name | escape }}</strong>{% if person.affiliation %}<span>{{ person.affiliation | escape }}</span>{% endif %}{% if person.topic %}<span>{{ person.topic | escape }}</span>{% endif %}</li>
+    {% endfor %}</ul>
   </section>
+  {% endif %}
+  {% if page.sponsors and page.sponsors.size > 0 %}
   <section class="event-section" aria-labelledby="sponsors-title">
     <h2 id="sponsors-title">Sponsors and supporters</h2>
-    {% if page.sponsors and page.sponsors.size > 0 %}
-      <ul class="people-list">{% for sponsor in page.sponsors %}<li><strong>{% if sponsor.url %}<a href="{{ sponsor.url | escape }}">{{ sponsor.name | escape }}</a>{% else %}{{ sponsor.name | escape }}{% endif %}</strong></li>{% endfor %}</ul>
-    {% else %}<p class="muted">Event-specific sponsors and supporters will be listed when confirmed.</p>{% endif %}
+    <ul class="people-list">{% for sponsor in page.sponsors %}
+      <li><strong>{% if sponsor.url %}<a href="{{ sponsor.url | escape }}">{{ sponsor.name | escape }}</a>{% else %}{{ sponsor.name | escape }}{% endif %}</strong></li>
+    {% endfor %}</ul>
   </section>
-  {% if page.registration_url %}<a class="button" href="{{ page.registration_url | escape }}">Register for this {{ page.event_type | downcase }}</a>{% endif %}
+  {% endif %}
 </div>

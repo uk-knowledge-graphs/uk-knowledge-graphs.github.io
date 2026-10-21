@@ -6,25 +6,15 @@ lang: en-GB
 markdown: kramdown
 permalink: pretty
 collections:
-  meetups:
+  events:
     output: true
-    permalink: /meetups/:name/
-  symposiums:
-    output: true
-    permalink: /symposiums/:name/
+    permalink: /events/:name/
 defaults:
   - scope:
       path: ""
-      type: meetups
+      type: events
     values:
       layout: event
-      event_type: Meetup
-  - scope:
-      path: ""
-      type: symposiums
-    values:
-      layout: event
-      event_type: Symposium
 exclude:
   - README.md
   - Gemfile

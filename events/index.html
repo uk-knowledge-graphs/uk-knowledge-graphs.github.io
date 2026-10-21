@@ -1,0 +1,14 @@
+---
+layout: default
+title: Events
+description: Meet-ups and symposiums from the UK Knowledge Graphs Interest Group.
+permalink: /events/
+---
+<section class="page-hero"><div class="container"><span class="section-kicker">ONLINE &amp; IN PERSON</span><h1>Events.</h1><p class="lead">Join us for online meet-ups and in-person symposiums. Each event has its own page with its programme and practical information.</p></div></section>
+<section class="section"><div class="container"><div class="section-heading"><div><span class="section-kicker">THE PROGRAMME</span><h2>Meet-ups &amp; symposiums</h2></div><p>Choose an event to see its details.</p></div>
+<div class="listing">
+{% assign events = site.events | sort: 'order' | reverse %}
+{% for event in events %}
+<a class="listing-row" href="{{ event.url | relative_url }}"><span class="listing-type">{{ event.event_type | default: 'EVENT' | upcase | escape }}</span><div><h3>{{ event.title | escape }}</h3>{% if event.event_date %}<p>{{ event.event_date | escape }}</p>{% endif %}{% if event.summary %}<p>{{ event.summary | escape }}</p>{% endif %}</div><span class="listing-arrow" aria-hidden="true">↗</span></a>
+{% else %}<p>No events have been announced yet. Join our <a href="{{ site.data.contact.google_group }}">Google group</a> or <a href="{{ site.data.contact.linkedin }}">LinkedIn group</a> for community updates.</p>{% endfor %}
+</div></div></section>

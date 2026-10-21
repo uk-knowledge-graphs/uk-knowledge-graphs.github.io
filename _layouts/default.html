@@ -19,10 +19,10 @@
         <span>UK <strong>Knowledge Graphs</strong><small>Interest Group</small></span>
       </a>
       <nav aria-label="Main navigation">
-        <a href="{{ '/meetups/' | relative_url }}" {% if page.url contains '/meetups/' %}aria-current="page"{% endif %}>Meet-ups</a>
-        <a href="{{ '/symposiums/' | relative_url }}" {% if page.url contains '/symposiums/' %}aria-current="page"{% endif %}>Symposiums</a>
+        <a href="{{ '/events/' | relative_url }}" {% if page.url contains '/events/' %}aria-current="page"{% endif %}>Events</a>
         <a href="{{ '/teaching/' | relative_url }}" {% if page.url contains '/teaching/' %}aria-current="page"{% endif %}>Teaching</a>
         <a href="{{ '/#chairs' | relative_url }}">Chairs</a>
+        <a href="{{ '/#contact' | relative_url }}">Contact</a>
       </nav>
     </div>
   </header>
@@ -31,8 +31,8 @@
     <div class="container footer-grid">
       <div><a class="footer-brand" href="{{ '/' | relative_url }}">UK Knowledge Graphs</a>
       <p>A community for people researching, building and teaching knowledge graphs in the UK.</p></div>
-      <div><strong>Explore</strong><a href="{{ '/meetups/' | relative_url }}">Meet-ups</a><a href="{{ '/symposiums/' | relative_url }}">Symposiums</a><a href="{{ '/teaching/' | relative_url }}">Teaching materials</a></div>
-      <div><strong>Get in touch</strong><a href="mailto:Ernesto.Jimenez-Ruiz@citystgeorges.ac.uk">Email the group</a>
+      <div><strong>Explore</strong><a href="{{ '/events/' | relative_url }}">Events</a><a href="{{ '/teaching/' | relative_url }}">Teaching materials</a><a href="{{ '/#chairs' | relative_url }}">Chairs</a></div>
+      <div><strong>Contact point</strong><a href="{{ site.data.contact.linkedin | escape }}">LinkedIn group</a><a href="{{ site.data.contact.google_group | escape }}">Google group</a><a href="mailto:{{ site.data.contact.email | escape }}">Email the group</a>
       <span>Supported by the Open Data Institute</span></div>
     </div>
     <div class="container footnote">A relaunch of the <a href="https://www.turing.ac.uk/research/interest-groups/knowledge-graphs">Knowledge Graphs Interest Group at The Alan Turing Institute</a>.</div>
