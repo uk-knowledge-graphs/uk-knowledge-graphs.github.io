@@ -50,7 +50,7 @@ Please reach if you would liek to sponsor the symposium and support the UK KG gr
 | **09:00–09:30** | Registration, coffee and poster set-up |
 | **09:30–09:45** | Welcome and relaunch |
 | **09:45–10:15** | **Keynote 1 — Anelia Kurteva** · [University of Birmingham](https://www.birmingham.ac.uk/staff/profiles/computer-science/academic-staff/kurteva-anelia)<br>*Knowledge Graphs as Enablers of Modern Day Data Governance in AI: Smart Cities, Circular Economy and Finance Cases* |
-| **10:15–10:45** | **Keynote 2 — Enrico Daga** · [Knowledge Media Institute, The Open University]https://www.enridaga.net/)<br>*Knowledge Graphs Without Borders: Querying Anything, Re-engineering Continuously, Orchestrating Agents* |
+| **10:15–10:45** | **Keynote 2 — Enrico Daga** · [Knowledge Media Institute, The Open University](https://www.enridaga.net/)<br>*Knowledge Graphs Without Borders: Querying Anything, Re-engineering Continuously, Orchestrating Agents* |
 | **10:45–11:15** | Coffee and networking |
 | **11:15–12:25** | **Lightning talks: KGs and AI**<br>Six 10-minute talks, including sponsor slots, with 10 minutes total for changeovers. Topics include GraphRAG, LLM grounding and explainability. |
 | **12:25–12:30** | Group photo |
@@ -67,18 +67,14 @@ Please reach if you would liek to sponsor the symposium and support the UK KG gr
 ## Keynote abstracts
 
 <details>
-<summary><strong>Keynote 1 — Anelia Kurteva</strong></summary>
-
-*Knowledge Graphs as Enablers of Modern Day Data Governance in AI: Smart Cities, Circular Economy and Finance Cases*
+<summary><strong>Anelia Kurteva — Knowledge Graphs as Enablers of Modern Day Data Governance in AI: Smart Cities, Circular Economy and Finance Cases</strong></summary>
 
 _Abstract to be added._
 
 </details>
 
 <details>
-<summary><strong>Keynote 2 — Enrico Daga</strong></summary>
-
-*Knowledge Graphs Without Borders: Querying Anything, Re-engineering Continuously, Orchestrating Agents*
+<summary><strong>Enrico Daga — Knowledge Graphs Without Borders: Querying Anything, Re-engineering Continuously, Orchestrating Agents</strong></summary>
 
 Knowledge graphs are often considered the end product of a costly transformation pipeline. This talk takes a different view, in which knowledge engineering is a continuous process that runs from raw data to the agents that act on it. I will start with Façade-X and SPARQL Anything, which let heterogeneous sources (CSV, JSON, XML, spreadsheets, documents, databases) be queried as virtual RDF graphs without up-front transformation, and which are now the focus of the W3C Data Façades Community Group. I will then present the ontological continuum: knowledge-graph re-engineering as an explicit, incremental move through pragmatic and semantic dimensions. Finally, I will discuss how these principles can support process knowledge graphs for organising and orchestrating agentic AI. I will close by putting open challenges to the community as a shared research agenda for discussion.
 
