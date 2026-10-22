@@ -65,7 +65,7 @@ description: Join the UK Knowledge Graphs Interest Group.
 	</div>
     <div class="chairs-grid">
       {% for chair in site.data.chairs %}
-      <article class="chair-card"><div class="chair-image"><img src="{{ chair.image | relative_url }}" alt="Portrait placeholder for {{ chair.name | escape }}" loading="lazy" width="360" height="360"></div><div class="chair-details"><h3>{{ chair.name | escape }}</h3><p>{{ chair.affiliation | escape }}</p></div></article>
+      <article class="chair-card"><div class="chair-image"><img src="{{ chair.image | relative_url }}" alt="Portrait placeholder for {{ chair.name | escape }}" loading="lazy" width="260" height="260"></div><div class="chair-details"><h3>{{ chair.name | escape }}</h3><p>{{ chair.affiliation | escape }}</p></div></article>
       {% endfor %}
     </div>
     <p class="image-note">Portraits are placeholders until approved chair photographs are available.</p>
