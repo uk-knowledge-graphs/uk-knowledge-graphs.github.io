@@ -52,7 +52,7 @@ Please reach if you would liek to sponsor the symposium and support the UK KG gr
 | **09:45–10:15** | **Keynote 1 — Anelia Kurteva** · [University of Birmingham](https://www.birmingham.ac.uk/staff/profiles/computer-science/academic-staff/kurteva-anelia)<br>*Knowledge Graphs as Enablers of Modern Day Data Governance in AI: Smart Cities, Circular Economy and Finance Cases* |
 | **10:15–10:45** | **Keynote 2 — Enrico Daga** · [Knowledge Media Institute, The Open University](https://www.enridaga.net/)<br>*Knowledge Graphs Without Borders: Querying Anything, Re-engineering Continuously, Orchestrating Agents* |
 | **10:45–11:15** | **Coffee and networking** (and posters) |
-| **11:15–12:25** | **Lightning talks** (7+3-minute talks)<br><ul><li>**Preserving and Decomposing Uncertainty in Entity Resolution for Knowledge Graphs**, Nasser Alkhulaifi, University of Nottingham</li><li>**Code-Review-Graph: Making AI Code Reviews More Efficient and Explainable Through Knowledge Graphs**, Tirth Kanani, Independent Researcher</li><li>**Weights Are Not Enough: Knowledge Graphs for Agentic Learning Loops**, Juraj Mavracic, Symbiotic Dynamics</li><li>**Knowledge Graph Grounding for Explainable Multimodal Drug-Target Interaction Prediction**, Mahroo Safari, Razi University and Faezeh Safari, University of Exeter</li><li>**Triplestore for discovery, RESTful for time series, OGC for spatial: Publishing Environmental Linked Data Without a Triplestore**, Pritam Bhudia, Telespazio UK</li></ul> |
+| **11:15–12:25** | **Lightning talks** (7+3-minute talks)<br>• **Preserving and Decomposing Uncertainty in Entity Resolution for Knowledge Graphs**, Nasser Alkhulaifi, University of Nottingham<br>• **Code-Review-Graph: Making AI Code Reviews More Efficient and Explainable Through Knowledge Graphs**, Tirth Kanani, Independent Researcher<br>• **Weights Are Not Enough: Knowledge Graphs for Agentic Learning Loops**, Juraj Mavracic, Symbiotic Dynamics<br>• **Knowledge Graph Grounding for Explainable Multimodal Drug-Target Interaction Prediction**, Mahroo Safari, Razi University and Faezeh Safari, University of Exeter<br>• **Triplestore for discovery, RESTful for time series, OGC for spatial: Publishing Environmental Linked Data Without a Triplestore**, Pritam Bhudia, Telespazio UK |
 | **12:25–12:30** | **Group photo** |
 | **12:30–13:30** | **Lunch and networking** (and posters) |
 | **13:30–13:50** | **KGs in practice 1 — Bridging Law and Technology for Trustworthy Data Sharing and policy**<br>Beatriz Esteves, Ghent University|
@@ -82,7 +82,13 @@ Knowledge graphs are often considered the end product of a costly transformation
 
 ### Posters
 
-TBA
+- **Evidence-Grounded Knowledge Graph Construction from Building Regulations**, Youssef Senousy, Birmingham City University 
+- **Knowledge Graph Grounding for Explainable Multimodal Drug-Target Interaction Prediction**, Mahroo Safari, Razi University and Faezeh Safari, University of Exeter
+- **THBKG: A Temporal Biomedical Knowledge Graph for Decision-Aligned Clinical Advancement Prediction**, Jacky Siu Pui Chung, Recursion Pharmaceuticals and Queen Mary, University of London
+- **AI Risk Ontologies to Support Regulatory Compliance**, Delaram Golpayegani, Trinity College Dublin
+- **Knowledge Graph-Guided Visual Memory for Efficient Vision-Language Question Answering**, Sania Verma, City St George's, University of London
+
+
 
 
 
