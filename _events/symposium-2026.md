@@ -80,7 +80,6 @@ Knowledge graphs are often considered the end product of a costly transformation
 
 </details>
 
-
 ### Posters
 
 TBA
