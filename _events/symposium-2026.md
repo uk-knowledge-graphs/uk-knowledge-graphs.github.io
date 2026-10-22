@@ -42,7 +42,7 @@ We are glad to announce the [Open Data Institute](https://theodi.org/) and the [
 Please contact the organisers if you would like to sponsor the symposium.
 
 
-![Open Data Institute logo](../../assets/images/odi-logo.png) ![Knowledge Graph conference logo](../../assets/images/kgc-logo.png)
+![Open Data Institute logo](../../assets/images/odi-logo.png)&emsp;&emsp;&emsp;![Knowledge Graph conference logo](../../assets/images/kgc-logo.png)
 
 
 ### Agenda (tentative)
