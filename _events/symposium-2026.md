@@ -44,6 +44,8 @@ Please contact the organisers if you would like to sponsor the symposium.
 <img src="assets/images/odi-logo.png" alt="Open Data Institute" width="180">
 <img src="assets/images/kgc-logo.png" alt="Knowledge Graph conference" width="180">
 
+| ![Open Data Institute logo](assets/images/odi-logo.png) | ![Knowledge Graph conference logo](assets/images/kgc-logo.png) |
+
 
 ### Agenda (tentative)
 
