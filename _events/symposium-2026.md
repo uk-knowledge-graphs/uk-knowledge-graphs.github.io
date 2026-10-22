@@ -47,22 +47,24 @@ Please reach if you would liek to sponsor the symposium and support the UK KG gr
 
 | Time | Session |
 |---|---|
-| **09:00–09:30** | Registration, coffee and poster set-up |
-| **09:30–09:45** | Welcome and relaunch |
+| **09:00–09:30** | **Registration, coffee and poster set-up** |
+| **09:30–09:45** | **Welcome and relaunch** by the organisers |
 | **09:45–10:15** | **Keynote 1 — Anelia Kurteva** · [University of Birmingham](https://www.birmingham.ac.uk/staff/profiles/computer-science/academic-staff/kurteva-anelia)<br>*Knowledge Graphs as Enablers of Modern Day Data Governance in AI: Smart Cities, Circular Economy and Finance Cases* |
 | **10:15–10:45** | **Keynote 2 — Enrico Daga** · [Knowledge Media Institute, The Open University](https://www.enridaga.net/)<br>*Knowledge Graphs Without Borders: Querying Anything, Re-engineering Continuously, Orchestrating Agents* |
-| **10:45–11:15** | Coffee and networking |
-| **11:15–12:25** | **Lightning talks: KGs and AI**<br>Six 10-minute talks, including sponsor slots, with 10 minutes total for changeovers. Topics include GraphRAG, LLM grounding and explainability. |
-| **12:25–12:30** | Group photo |
-| **12:30–13:30** | Lunch and networking |
-| **13:30–13:50** | **KGs in practice 1 — EG public sector and policy**<br>15-minute talk + 5 minutes for questions |
-| **13:50–14:10** | **KGs in practice 2 — EG health and life sciences**<br>15-minute talk + 5 minutes for questions |
-| **14:10–14:30** | **KGs in practice 3 — EG environment and industry**<br>15-minute talk + 5 minutes for questions |
-| **14:30–14:50** | **KGs in practice 4 — EG national security**<br>15-minute talk + 5 minutes for questions |
-| **14:50–15:50** | Poster session with coffee |
+| **10:45–11:15** | **Coffee and networking** (and posters) |
+| **11:15–12:25** | **Lightning talks** (7+3-minute talks)<br>
+					**Preserving and Decomposing Uncertainty in Entity Resolution for Knowledge Graphs**, Nasser Alkhulaifi, University of Nottingham <br>
+					**Code-Review-Graph: Making AI Code Reviews More Efficient and Explainable Through Knowledge Graphs**, Tirth Kanani, Independent Researcher |
+| **12:25–12:30** | **Group photo** |
+| **12:30–13:30** | **Lunch and networking** (and posters) |
+| **13:30–13:50** | **KGs in practice 1 — Bridging Law and Technology for Trustworthy Data Sharing and policy**<br>Beatriz Esteves, Ghent University|
+| **13:50–14:10** | **KGs in practice 2 — THBKG: A Temporal Biomedical Knowledge Graph for Decision-Aligned Clinical Advancement Prediction**<br>Jacky Siu Pui Chung, Recursion Pharmaceuticals and Queen Mary, University of London |
+| **14:10–14:30** | **KGs in practice 3 — Spreadsheets to Shared Understanding: Navigating Water Catchment Data with Composable Linked Data Architecture**<br> Andrew Fergusson, Telespazio UK and James Peacock, Department for Environment Food and Rural Affairs |
+| **14:30–14:50** | **KGs in practice 4 — AI Risk Ontologies to Support Regulatory Compliance**<br>Delaram Golpayegani, Trinity College Dublin |
+| **14:50–15:50** | **Poster session** with coffee |
 | **15:55–16:40** | **Panel — What the UK needs from knowledge graphs**<br>Both keynote speakers, alongside voices from industry, government and the third sector. 30 minutes of discussion, followed by 15 minutes of audience questions. |
 | **16:40–17:00** | **Close and commitments**<br>Next steps for the group: proposed working groups and leads, the next meetup date, and how to sign up and get involved. |
-| **17:00 onwards** | Drinks and networking at [Dame Alice Owen](https://www.damealiceowen.com/) · Less than 5 minutes from the venue |
+| **17:00 onwards** | **Drinks and networking** at [Dame Alice Owen](https://www.damealiceowen.com/) · Less than 5 minutes from the venue |
 
 ### Keynote abstracts
 
