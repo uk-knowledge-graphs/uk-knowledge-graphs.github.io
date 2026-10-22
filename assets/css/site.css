@@ -56,3 +56,10 @@ h1,h2,h3,p{margin-top:0}h1,h2,h3{line-height:1.12;letter-spacing:-.055em}h2{font
 
 .contact-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}.contact-card{display:flex;flex-direction:column;background:white;border:1px solid var(--line);padding:28px;text-decoration:none;min-height:220px;overflow-wrap:anywhere}.contact-card:hover{box-shadow:0 15px 30px #102b3510}.contact-card p{color:var(--muted);font-size:14px}.contact-card span{margin-top:auto;font-size:13px;font-weight:700;color:#335f54}.prose h2{font-size:clamp(1.8rem,3vw,2.5rem);color:var(--ink);margin-top:36px}.prose h3{font-size:1.4rem;color:var(--ink);margin-top:26px}.prose a{text-underline-offset:3px}
 @media(max-width:900px){.contact-grid{grid-template-columns:1fr 1fr}}@media(max-width:680px){.contact-grid{grid-template-columns:1fr}.contact-card{min-height:170px}}
+
+/* Markdown agenda tables — aligned with the site palette */
+table{width:100%;border-collapse:collapse;border:1px solid #aebbb1;background:var(--paper);color:var(--ink)}
+th,td{border:1px solid #aebbb1;padding:12px 16px;text-align:left;vertical-align:top}
+th{background:var(--tint);color:var(--deep);font-weight:750}
+tbody tr:nth-child(even){background:#f4f5f0}
+@media(max-width:680px){th,td{padding:9px 10px}}
