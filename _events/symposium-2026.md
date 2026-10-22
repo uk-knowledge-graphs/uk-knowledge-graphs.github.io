@@ -52,9 +52,7 @@ Please reach if you would liek to sponsor the symposium and support the UK KG gr
 | **09:45–10:15** | **Keynote 1 — Anelia Kurteva** · [University of Birmingham](https://www.birmingham.ac.uk/staff/profiles/computer-science/academic-staff/kurteva-anelia)<br>*Knowledge Graphs as Enablers of Modern Day Data Governance in AI: Smart Cities, Circular Economy and Finance Cases* |
 | **10:15–10:45** | **Keynote 2 — Enrico Daga** · [Knowledge Media Institute, The Open University](https://www.enridaga.net/)<br>*Knowledge Graphs Without Borders: Querying Anything, Re-engineering Continuously, Orchestrating Agents* |
 | **10:45–11:15** | **Coffee and networking** (and posters) |
-| **11:15–12:25** | **Lightning talks** (7+3-minute talks)<br>
-					**Preserving and Decomposing Uncertainty in Entity Resolution for Knowledge Graphs**, Nasser Alkhulaifi, University of Nottingham <br>
-					**Code-Review-Graph: Making AI Code Reviews More Efficient and Explainable Through Knowledge Graphs**, Tirth Kanani, Independent Researcher |
+| **11:15–12:25** | **Lightning talks** (7+3-minute talks)<br>**Preserving and Decomposing Uncertainty in Entity Resolution for Knowledge Graphs**, Nasser Alkhulaifi, University of Nottingham <br>**Code-Review-Graph: Making AI Code Reviews More Efficient and Explainable Through Knowledge Graphs**, Tirth Kanani, Independent Researcher |
 | **12:25–12:30** | **Group photo** |
 | **12:30–13:30** | **Lunch and networking** (and posters) |
 | **13:30–13:50** | **KGs in practice 1 — Bridging Law and Technology for Trustworthy Data Sharing and policy**<br>Beatriz Esteves, Ghent University|
