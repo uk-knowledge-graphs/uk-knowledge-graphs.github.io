@@ -45,48 +45,44 @@ Please reach if you would liek to sponsor the symposium and support the UK KG gr
 ### Agenda
 
 
-09:00 to 09:30 Registration, coffee, poster set-up
+| Time | Session |
+|---|---|
+| **09:00–09:30** | Registration, coffee and poster set-up |
+| **09:30–09:45** | Welcome and relaunch |
+| **09:45–10:15** | **Keynote 1 — Anelia Kurteva** · [University of Birmingham](https://www.birmingham.ac.uk/staff/profiles/computer-science/academic-staff/kurteva-anelia)<br>*Knowledge Graphs as Enablers of Modern Day Data Governance in AI: Smart Cities, Circular Economy and Finance Cases* |
+| **10:15–10:45** | **Keynote 2 — Enrico Daga** · [Knowledge Media Institute, The Open University]https://www.enridaga.net/)<br>*Knowledge Graphs Without Borders: Querying Anything, Re-engineering Continuously, Orchestrating Agents* |
+| **10:45–11:15** | Coffee and networking |
+| **11:15–12:25** | **Lightning talks: KGs and AI**<br>Six 10-minute talks, including sponsor slots, with 10 minutes total for changeovers. Topics include GraphRAG, LLM grounding and explainability. |
+| **12:25–12:30** | Group photo |
+| **12:30–13:30** | Lunch and networking |
+| **13:30–13:50** | **KGs in practice 1 — EG public sector and policy**<br>15-minute talk + 5 minutes for questions |
+| **13:50–14:10** | **KGs in practice 2 — EG health and life sciences**<br>15-minute talk + 5 minutes for questions |
+| **14:10–14:30** | **KGs in practice 3 — EG environment and industry**<br>15-minute talk + 5 minutes for questions |
+| **14:30–14:50** | **KGs in practice 4 — EG national security**<br>15-minute talk + 5 minutes for questions |
+| **14:50–15:50** | Poster session with coffee |
+| **15:55–16:40** | **Panel — What the UK needs from knowledge graphs**<br>Both keynote speakers, alongside voices from industry, government and the third sector. 30 minutes of discussion, followed by 15 minutes of audience questions. |
+| **16:40–17:00** | **Close and commitments**<br>Next steps for the group: proposed working groups and leads, the next meetup date, and how to sign up and get involved. |
+| **17:00 onwards** | Drinks and networking at [Dame Alice Owen](https://www.damealiceowen.com/) · Less than 5 minutes from the venue |
 
-09:30 to 09:45 Welcome and relaunch
+## Keynote abstracts
 
-09:45 to 10:15 Keynote 1: [Anelia Kurteva](https://www.birmingham.ac.uk/staff/profiles/computer-science/academic-staff/kurteva-anelia) on **Knowledge Graphs as Enablers of Modern Day Data Governance in AI: Smart Cities, Circular Economy and Finance Cases**
+<details>
+<summary><strong>Keynote 1 — Anelia Kurteva</strong></summary>
 
+*Knowledge Graphs as Enablers of Modern Day Data Governance in AI: Smart Cities, Circular Economy and Finance Cases*
 
-10:15 to 10:45 Keynote 2: [Enrico Daga](https://www.enridaga.net/) on **Knowledge Graphs Without Borders: Querying Anything, Re-engineering Continuously, Orchestrating Agents**
-> **Abstract:** Knowledge graphs are often considered the end product of a costly transformation pipeline. This talk takes a different view, in which knowledge engineering is a continuous process that runs from raw data to the agents that act on it. I will start with Façade-X and SPARQL Anything, which let heterogeneous sources (CSV, JSON, XML, spreadsheets, documents, databases) be queried as virtual RDF graphs without up-front transformation, and which are now the focus of the W3C Data Façades Community Group. I will then present the ontological continuum: knowledge-graph re-engineering as an explicit, incremental move through pragmatic and semantic dimensions. Finally, I will discuss how these principles can support process knowledge graphs for organising and orchestrating agentic AI. I will close by putting open challenges to the community as a shared research agenda for discussion.
+_Abstract to be added._
 
-10:45 to 11:15 Coffee and networking
+</details>
 
-11:15 to 12:25 Lightning talks: KGs and AI
-> 6 talks of 10 minutes, with sponsors taking slots and 10 minutes for changeovers; topics such as GraphRAG, LLM grounding and explainability
+<details>
+<summary><strong>Keynote 2 — Enrico Daga</strong></summary>
 
-12:25 to 12:30 Group photo
+*Knowledge Graphs Without Borders: Querying Anything, Re-engineering Continuously, Orchestrating Agents*
 
-12:30 to 13:30 Lunch and networking
+Knowledge graphs are often considered the end product of a costly transformation pipeline. This talk takes a different view, in which knowledge engineering is a continuous process that runs from raw data to the agents that act on it. I will start with Façade-X and SPARQL Anything, which let heterogeneous sources (CSV, JSON, XML, spreadsheets, documents, databases) be queried as virtual RDF graphs without up-front transformation, and which are now the focus of the W3C Data Façades Community Group. I will then present the ontological continuum: knowledge-graph re-engineering as an explicit, incremental move through pragmatic and semantic dimensions. Finally, I will discuss how these principles can support process knowledge graphs for organising and orchestrating agentic AI. I will close by putting open challenges to the community as a shared research agenda for discussion.
 
-13:30 to 13:50 KGs in practice 1: EG public sector and policy
->15-minute talk and 5 minutes of questions 
-
-13:50 to 14:10 KGs in practice 2: EG health and life sciences
-> 15-minute talk and 5 minutes of questions 
-
-14:10 to 14:30 KGs in practice 3: EG environment and industry
->15-minute talk and 5 minutes of questions 
-
-14:30 to 14:50 KGs in practice 4: EG national security
->15-minute talk and 5 minutes of questions 
-
-14:50 to 15:50 Poster session with coffee
-
-15:55 to 16:40 Panel: What the UK needs from knowledge graphs
-> Both keynotes plus voices from industry, government and the third sector; 30 minutes of discussion, 15 of audience questions
-
-16:40 to 17:00 Close and commitments
-> Where the group goes next: proposed working groups and leads, next meetup date, how to sign up and get involved
-
-17:00 onwards Drinks and networking
-> [Dame Alice Owen](https://www.damealiceowen.com/). Less than 5 minutes from venue.
-
+</details>
 
 
 
