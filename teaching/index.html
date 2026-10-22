@@ -8,75 +8,21 @@ permalink: /teaching/
 
 <section class="section"><div class="container">
   <div class="section-heading"><div><span class="section-kicker">MODULES &amp; COURSES</span><h2>Teaching collection.</h2></div><p>Browse modules and courses from the <a href="https://github.com/turing-knowledge-graphs/teaching/blob/main/README.md">Turing Knowledge Graphs teaching collection</a>.</p></div>
-  <div id="teaching-resources" class="resource-grid" aria-live="polite"><p>Loading modules and courses…</p></div>
-  <p id="teaching-status" role="status" hidden></p>
+  <div class="resource-grid">
+    <article class="resource-card"><h3><a href="https://www.southampton.ac.uk/courses/modules/comp6256">Knowledge Graphs for AI Systems</a></h3></article>
+    <article class="resource-card"><h3><a href="https://github.com/turing-knowledge-graphs/teaching/tree/main/city">Semantic Web Technologies and Knowledge Graphs</a></h3></article>
+    <article class="resource-card"><h3><a href="https://github.com/turing-knowledge-graphs/teaching/tree/main/hwu">Big Data Management</a></h3></article>
+    <article class="resource-card"><h3><a href="https://github.com/turing-knowledge-graphs/teaching/tree/main/upm">Semantic Web, Linked Data and Knowledge Graphs</a></h3></article>
+    <article class="resource-card"><h3><a href="https://github.com/turing-knowledge-graphs/teaching/tree/main/bcu">Semantic Web and Knowledge Engineering</a></h3></article>
+    <article class="resource-card"><h3><a href="https://iccl.inf.tu-dresden.de/web/Knowledge_Graphs_(WS2020)/en">Knowledge Graphs</a></h3></article>
+    <article class="resource-card"><h3><a href="https://opencourse.inf.ed.ac.uk/kg">Knowledge Graphs</a></h3></article>
+    <article class="resource-card"><h3><a href="https://wur.gitlab.io/linkeddata/docs/intro.html">Knowledge graphs in the life sciences</a></h3></article>
+    <article class="resource-card"><h3><a href="https://github.com/turing-knowledge-graphs/teaching/tree/main/uom">Neural-symbolic Knowledge Representation and Reasoning</a></h3></article>
+  </div>
 </div></section>
 
 <section class="section section-tint"><div class="container section-intro"><span class="section-kicker">CONTRIBUTE</span><div><h2>Share a resource.</h2><p>Have slides, tutorials, exercises or reading lists you are happy to share? Send a link, author attribution, a short description and reuse terms so the group can review it.</p><a class="button" href="mailto:{{ site.data.contact.email | escape }}?subject=Teaching%20material%20for%20UK%20Knowledge%20Graphs">Suggest a resource <span aria-hidden="true">↗</span></a></div></div></section>
 
 <section class="section"><div class="container"><span class="section-kicker">RELATED READING</span><h2>Teaching Knowledge Graphs.</h2><p>Eleni Ilkou, Hasan Abu-Rasheed, David Chaves-Fraga, Erna Engelbrecht, Ernesto Jiménez-Ruiz, Jose Emilio Labra-Gayo. <a href="https://openaccess.city.ac.uk/id/eprint/38542/">Teaching Knowledge Graph for Knowledge Graphs Education</a>. Accepted in the <cite>Semantic Web Journal</cite>.</p></div></section>
 
-<script>
-(() => {
-  const readme = 'https://raw.githubusercontent.com/turing-knowledge-graphs/teaching/main/README.md';
-  const source = 'https://github.com/turing-knowledge-graphs/teaching/blob/main/README.md';
-  const grid = document.getElementById('teaching-resources');
-  const status = document.getElementById('teaching-status');
 
-  function clean(text) {
-    return text.replace(/<[^>]*>/g, '').replace(/[`*_]/g, '').replace(/\\([\\[\\]()])/g, '$1').trim();
-  }
-
-  function resourceLinks(markdown) {
-    const results = [];
-    const seen = new Set();
-    let section = '';
-    let inCode = false;
-    for (const line of markdown.split(/\r?\n/)) {
-      if (/^\s*(```|~~~)/.test(line)) { inCode = !inCode; continue; }
-      if (inCode) continue;
-      const heading = line.match(/^\s{0,3}#{1,6}\s+(.+)$/);
-      if (heading) { section = clean(heading[1]); continue; }
-      if (/\b(references?|citations?|papers?|publications?|licen[cs]e|contributors?|contact)\b/i.test(section)) continue;
-      // Resource entries are normally list items or Markdown table rows.
-      if (!/^\s*(?:[-*+]\s|\d+[.)]\s|\|)/.test(line)) continue;
-      const links = line.matchAll(/(?<!!)\[([^\]]+)\]\((<[^>]+>|[^\s)]+)(?:\s+"[^"]*")?\)/g);
-      for (const match of links) {
-        const name = clean(match[1]);
-        const target = match[2].replace(/^<|>$/g, '');
-        let url;
-        try { url = new URL(target, source); } catch { continue; }
-        if (!/^https?:$/.test(url.protocol) || !name || /^https?:\/\//i.test(name)) continue;
-        if (/^(?:readme|here|link|slides|video|website|material|more information)$/i.test(name)) continue;
-        if (seen.has(url.href)) continue;
-        seen.add(url.href);
-        results.push({ name, url: url.href });
-      }
-    }
-    return results;
-  }
-
-  fetch(readme)
-    .then(response => { if (!response.ok) throw new Error('README unavailable'); return response.text(); })
-    .then(markdown => {
-      const resources = resourceLinks(markdown);
-      if (!resources.length) throw new Error('No module links found');
-      grid.replaceChildren(...resources.map(({ name, url }) => {
-        const card = document.createElement('article');
-        card.className = 'resource-card';
-        const heading = document.createElement('h3');
-        const link = document.createElement('a');
-        link.href = url;
-        link.textContent = name;
-        heading.append(link);
-        card.append(heading);
-        return card;
-      }));
-    })
-    .catch(() => {
-      grid.replaceChildren();
-      status.hidden = false;
-      status.innerHTML = 'The modules could not be loaded. <a href="' + source + '">Browse the teaching collection on GitHub</a>.';
-    });
-})();
-</script>
