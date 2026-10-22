@@ -1,21 +1,28 @@
 - name: Jeff Pan
   affiliation: University of Edinburgh
   image: /assets/images/chairs/jeff.png
+  url: https://people.inf.ed.ac.uk/Jeff_Pan.html
 - name: Valentina Tamma
   affiliation: University of Liverpool
   image: /assets/images/chairs/valentina.png
+  url: https://www.liverpool.ac.uk/people/valentina-tamma
 - name: Ian Horrocks
   affiliation: University of Oxford
   image: /assets/images/chairs/ian.png
+  url: https://www.cs.ox.ac.uk/people/ian.horrocks/
 - name: Anelia Kurteva
   affiliation: University of Birmingham
   image: /assets/images/chairs/anelia.png
+  url: https://www.birmingham.ac.uk/staff/profiles/computer-science/academic-staff/kurteva-anelia
 - name: Andrew Newman
   affiliation: The Open Data Institute
   image: /assets/images/chairs/andrew.png
+  url: https://theodi.org/profile/andrew-newman/
 - name: Nigel Dewdney
   affiliation: The Alan Turing Institute
   image: /assets/images/chairs/nigel-dewdney.svg
+  url: https://uk-knowledge-graphs.github.io/
 - name: Ernesto Jimenez-Ruiz
   affiliation: City St George's, University of London
   image: /assets/images/chairs/ernesto.png
+  url: https://aicentre-csg.github.io/kg-lab/

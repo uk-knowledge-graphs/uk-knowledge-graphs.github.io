@@ -5,7 +5,7 @@ layout: default
   <div class="container narrow">
     <a class="eyebrow back" href="{{ '/events/' | relative_url }}">← All events</a>
     {% if page.event_type %}<span class="pill">{{ page.event_type | escape }}</span>{% endif %}
-    <h1>{{ page.title | escape }}</h1>
+    <h2>{{ page.title | escape }}</h2>
     {% if page.summary %}<p class="lead">{{ page.summary | escape }}</p>{% endif %}
     <div class="event-meta">
       {% if page.event_date %}<div><span>Date</span><strong>{{ page.event_date | escape }}</strong></div>{% endif %}
