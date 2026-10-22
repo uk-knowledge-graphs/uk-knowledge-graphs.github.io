@@ -64,7 +64,7 @@ Please reach if you would liek to sponsor the symposium and support the UK KG gr
 | **16:40–17:00** | **Close and commitments**<br>Next steps for the group: proposed working groups and leads, the next meetup date, and how to sign up and get involved. |
 | **17:00 onwards** | Drinks and networking at [Dame Alice Owen](https://www.damealiceowen.com/) · Less than 5 minutes from the venue |
 
-## Keynote abstracts
+### Keynote abstracts
 
 <details>
 <summary><strong>Anelia Kurteva — Knowledge Graphs as Enablers of Modern Day Data Governance in AI: Smart Cities, Circular Economy and Finance Cases</strong></summary>
@@ -79,6 +79,11 @@ _Abstract to be added._
 Knowledge graphs are often considered the end product of a costly transformation pipeline. This talk takes a different view, in which knowledge engineering is a continuous process that runs from raw data to the agents that act on it. I will start with Façade-X and SPARQL Anything, which let heterogeneous sources (CSV, JSON, XML, spreadsheets, documents, databases) be queried as virtual RDF graphs without up-front transformation, and which are now the focus of the W3C Data Façades Community Group. I will then present the ontological continuum: knowledge-graph re-engineering as an explicit, incremental move through pragmatic and semantic dimensions. Finally, I will discuss how these principles can support process knowledge graphs for organising and orchestrating agentic AI. I will close by putting open challenges to the community as a shared research agenda for discussion.
 
 </details>
+
+
+### Posters
+
+TBA
 
 
 
