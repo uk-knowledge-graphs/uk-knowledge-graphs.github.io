@@ -39,10 +39,13 @@ Please register until November 2 via [City's e-store](https://estore.city.ac.uk/
 
 We are glad to announce the [Open Data Institute](https://theodi.org/) and the [Knowledge Graph Conference (KGC)](https://www.knowledgegraph.tech/) as the sponsors of the 2026 sympsosium.
 
-Please reach if you would liek to sponsor the symposium and support the UK KG group.
+Please contact the organisers if you would like to sponsor the symposium.
+
+<img src="assets/images/odi-logo.png" alt="Open Data Institute" width="180">
+<img src="assets/images/kgc-logo.png" alt="Knowledge Graph conference" width="180">
 
 
-### Agenda
+### Agenda (tentative)
 
 
 | Time | Session |
