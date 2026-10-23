@@ -93,5 +93,5 @@ Knowledge graphs are often considered the end product of a costly transformation
 - **Rapid Scoping Review of Climate Literature using Encyclopedia and KGs**, Shweata Hegde,	#semanticClimate and Imperial College London
 - **A Knowledge Graph for the IPCC's Sixth Assessment Report (AR6)**, Simon Worthington, #semanticClimate
 - **A Multimodal Knowledge Graph Infrastructure for Digital Twins of Financial Operational Risks: Mortgages and FX stocks**, Nizar Al Ahmad, University of Birmingham
-
+- **Reasoning with Less: Memory-Efficient Contrastive Learning for Temporal Knowledge Graphs**, Eshani Fernando, Bournemouth University
 
