@@ -90,7 +90,7 @@ Knowledge graphs are often considered the end product of a costly transformation
 - **THBKG: A Temporal Biomedical Knowledge Graph for Decision-Aligned Clinical Advancement Prediction**, Jacky Siu Pui Chung, Recursion Pharmaceuticals and Queen Mary, University of London
 - **AI Risk Ontologies to Support Regulatory Compliance**, Delaram Golpayegani, Trinity College Dublin
 - **Knowledge Graph-Guided Visual Memory for Efficient Vision-Language Question Answering**, Sania Verma, City St George's, University of London
-
+- **Rapid Scoping Review of Climate Literature using Encyclopedia and KGs**, Shweata Hegde,	#semanticClimate and Imperial College London
 
 
 
