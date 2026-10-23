@@ -33,11 +33,11 @@ City St George's, University of London, [Clerkenwell campus](https://www.citystg
 
 ### Registration
 
-Please register until November 2 via [City's e-store](https://estore.city.ac.uk/product-catalogue/conference-events/events/uk-knowledge-graphs-symposium-2026-13112026) (£30, £15 students).
+Please register by November 2 via [City's e-store](https://estore.city.ac.uk/product-catalogue/conference-events/events/uk-knowledge-graphs-symposium-2026-13112026) (£30, £15 students).
 
 ### Sponsors
 
-We are glad to announce the [Open Data Institute](https://theodi.org/) and the [Knowledge Graph Conference (KGC)](https://www.knowledgegraph.tech/) as the sponsors of the 2026 sympsosium.
+We are glad to announce the [Open Data Institute](https://theodi.org/) and the [Knowledge Graph Conference (KGC)](https://www.knowledgegraph.tech/) as the sponsors of the 2026 symposium.
 
 Please contact the organisers if you would like to sponsor the symposium.
 
@@ -58,7 +58,7 @@ Please contact the organisers if you would like to sponsor the symposium.
 | **11:15–12:25** | **Lightning talks** (7+3-minute talks)<br>• **Preserving and Decomposing Uncertainty in Entity Resolution for Knowledge Graphs**, Nasser Alkhulaifi, University of Nottingham<br>• **Code-Review-Graph: Making AI Code Reviews More Efficient and Explainable Through Knowledge Graphs**, Tirth Kanani, Independent Researcher<br>• **Weights Are Not Enough: Knowledge Graphs for Agentic Learning Loops**, Juraj Mavracic, Symbiotic Dynamics<br>• **Knowledge Graph Grounding for Explainable Multimodal Drug-Target Interaction Prediction**, Mahroo Safari, Razi University and Faezeh Safari, University of Exeter<br>• **Triplestore for discovery, RESTful for time series, OGC for spatial: Publishing Environmental Linked Data Without a Triplestore**, Pritam Bhudia, Telespazio UK |
 | **12:25–12:30** | **Group photo** |
 | **12:30–13:30** | **Lunch and networking** (and posters) |
-| **13:30–13:50** | **KGs in practice 1 — Bridging Law and Technology for Trustworthy Data Sharing and policy**<br>Beatriz Esteves, Ghent University|
+| **13:30–13:50** | **KGs in practice 1 — Bridging Law and Technology for Trustworthy Data Sharing and Policy**<br>Beatriz Esteves, Ghent University|
 | **13:50–14:10** | **KGs in practice 2 — THBKG: A Temporal Biomedical Knowledge Graph for Decision-Aligned Clinical Advancement Prediction**<br>Jacky Siu Pui Chung, Recursion Pharmaceuticals and Queen Mary, University of London |
 | **14:10–14:30** | **KGs in practice 3 — Spreadsheets to Shared Understanding: Navigating Water Catchment Data with Composable Linked Data Architecture**<br> Andrew Fergusson, Telespazio UK and James Peacock, Department for Environment Food and Rural Affairs |
 | **14:30–14:50** | **KGs in practice 4 — AI Risk Ontologies to Support Regulatory Compliance**<br>Delaram Golpayegani, Trinity College Dublin |
