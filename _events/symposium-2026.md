@@ -98,3 +98,4 @@ Knowledge graphs are often considered the end product of a costly transformation
 - **NeSy-Gen: Neuro-Symbolic Claim Auditing and Refinement for Factual Radiology Report Generation**, Faezeh Safari, University of Exeter
 - **When Structure Falls Short: Can Semantics Help Knowledge Graph Completion?**, Muhammad Wasim, Abertay University
 - **Discovering data meanings without tables and definitions: a simple ontology on a measured substrate**, Aleksander Główka, DMG Media
+- **From Chemist-Aligned Retrosynthesis to Knowledge-Grounded Scientific Predictions**, Nitisha Jain, Microsoft Research
