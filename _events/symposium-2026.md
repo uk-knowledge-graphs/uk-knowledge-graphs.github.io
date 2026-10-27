@@ -72,7 +72,7 @@ Please contact the organisers if you would like to sponsor the symposium.
 <details>
 <summary><strong>Anelia Kurteva — Knowledge Graphs as Enablers of Modern Day Data Governance in AI: Smart Cities, Circular Economy and Finance Cases</strong></summary>
 
-_Abstract to be added._
+As Artificial Intelligence (AI) becomes increasingly autonomous, aligning operational data management pipelines with overarching governance frameworks has become essential. This talk explores how Knowledge Graphs serve as an actionable semantic layer to bridge this gap. By enabling transparent, FAIR-compliant multimodal data sharing and integration across systems, Knowledge Graphs power advanced AI reasoning and ultimately help automate complex tasks such as legal compliance verification and auditing (a cornerstone of responsible AI development). Drawing from practical implementations in GDPR-compliant smart city data sharing, circular economy product lifecycle tracking with digital product passports, and financial risk digital twins, this talk discusses how Knowledge Graphs can streamline complex multimodal data flows while directly embedding compliance checks when using consent and contracts as a legal basis for data sharing and use. Finally, given the growing synergy between Generative AI and Knowledge Graphs such as leveraging LLMs for ontology engineering, data collection, and annotation, this talk addresses the pressing need to build Knowledge Graphs in a responsible and transparent manner, ensuring they are auditable and trustworthy assets rather than be seen as liabilities in AI pipelines.
 
 </details>
 
@@ -95,3 +95,5 @@ Knowledge graphs are often considered the end product of a costly transformation
 - **A Multimodal Knowledge Graph Infrastructure for Digital Twins of Financial Operational Risks: Mortgages and FX stocks**, Nizar Al Ahmad, University of Birmingham
 - **Reasoning with Less: Memory-Efficient Contrastive Learning for Temporal Knowledge Graphs**, Eshani Fernando, Bournemouth University
 - **NeSy-Gen: Neuro-Symbolic Claim Auditing and Refinement for Factual Radiology Report Generation**, Faezeh Safari, University of Exeter
+- **When Structure Falls Short: Can Semantics Help Knowledge Graph Completion?**, Muhammad Wasim, Abertay University
+- **Discovering data meanings without tables and definitions: a simple ontology on a measured substrate**, Aleksander Główka, DMG Media
