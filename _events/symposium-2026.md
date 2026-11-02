@@ -50,7 +50,7 @@ Please contact the organisers if you would like to sponsor the symposium.
 
 | Time | Session |
 |---|---|
-| **09:00–09:30** | **Registration, coffee and poster set-up** |
+| **09:00–09:30** | **Registration, coffee and [poster](#posters) set-up** |
 | **09:30–09:45** | **Welcome and relaunch** by the organisers |
 | **09:45–10:15** | **Keynote 1 — Anelia Kurteva** · [University of Birmingham](https://www.birmingham.ac.uk/staff/profiles/computer-science/academic-staff/kurteva-anelia)<br>*Knowledge Graphs as Enablers of Modern Day Data Governance in AI: Smart Cities, Circular Economy and Finance Cases* |
 | **10:15–10:45** | **Keynote 2 — Enrico Daga** · [Knowledge Media Institute, The Open University](https://www.enridaga.net/)<br>*Knowledge Graphs Without Borders: Querying Anything, Re-engineering Continuously, Orchestrating Agents* |
