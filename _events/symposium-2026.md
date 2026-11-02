@@ -100,4 +100,4 @@ Knowledge graphs are often considered the end product of a costly transformation
 - **Discovering data meanings without tables and definitions: a simple ontology on a measured substrate**, Aleksander Główka, DMG Media
 - **From Chemist-Aligned Retrosynthesis to Knowledge-Grounded Scientific Predictions**, Nitisha Jain, Microsoft Research
 - **GUARD Project: Ensuring Interoperable and Trustworthy Knowledge Graphs for Defence and National Security AI**, Jon Dilworth, City St George's, University of London
-- ** ELK-Em Closure-Aware Ontology Embeddings for EL<sub>+</sub><sup>⊥</sup> Ontologies: theory and applications**, Naman Singh, City St George's, University of London
+- **ELK-Em Closure-Aware Ontology Embeddings for EL<sub>+</sub><sup>⊥</sup> Ontologies: theory and applications**, Naman Singh, City St George's, University of London
