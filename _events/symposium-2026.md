@@ -54,15 +54,15 @@ Please contact the organisers if you would like to sponsor the symposium.
 | **09:30–09:45** | **Welcome and relaunch** by the organisers |
 | **09:45–10:15** | **Keynote 1 — Anelia Kurteva** · [University of Birmingham](https://www.birmingham.ac.uk/staff/profiles/computer-science/academic-staff/kurteva-anelia)<br>*Knowledge Graphs as Enablers of Modern Day Data Governance in AI: Smart Cities, Circular Economy and Finance Cases* |
 | **10:15–10:45** | **Keynote 2 — Enrico Daga** · [Knowledge Media Institute, The Open University](https://www.enridaga.net/)<br>*Knowledge Graphs Without Borders: Querying Anything, Re-engineering Continuously, Orchestrating Agents* |
-| **10:45–11:15** | **Coffee and networking** (and posters) |
+| **10:45–11:15** | **Coffee and networking** (and [posters](#posters)) |
 | **11:15–12:25** | **Lightning talks** (7+3-minute talks)<br>• **Preserving and Decomposing Uncertainty in Entity Resolution for Knowledge Graphs**, Nasser Alkhulaifi, University of Nottingham<br>• **Code-Review-Graph: Making AI Code Reviews More Efficient and Explainable Through Knowledge Graphs**, Tirth Kanani, Independent Researcher<br>• **Weights Are Not Enough: Knowledge Graphs for Agentic Learning Loops**, Juraj Mavracic, Symbiotic Dynamics<br>• **Knowledge Graph Grounding for Explainable Multimodal Drug-Target Interaction Prediction**, Mahroo Safari, Razi University and Faezeh Safari, University of Exeter<br>• **Triplestore for discovery, RESTful for time series, OGC for spatial: Publishing Environmental Linked Data Without a Triplestore**, Pritam Bhudia, Telespazio UK<br>• **Engineering Trust: Strict Schemas, Polymorphism, and Compile-Time Validation in Knowledge Graphs**, Callum Hemsley, TypeDB |
 | **12:25–12:30** | **Group photo** |
-| **12:30–13:30** | **Lunch and networking** (and posters) |
+| **12:30–13:30** | **Lunch and networking** (and [posters](#posters)) |
 | **13:30–13:50** | **KGs in practice 1 — Bridging Law and Technology for Trustworthy Data Sharing and Policy**<br>Beatriz Esteves, Ghent University|
 | **13:50–14:10** | **KGs in practice 2 — THBKG: A Temporal Biomedical Knowledge Graph for Decision-Aligned Clinical Advancement Prediction**<br>Jacky Siu Pui Chung, Recursion Pharmaceuticals and Queen Mary, University of London |
 | **14:10–14:30** | **KGs in practice 3 — Spreadsheets to Shared Understanding: Navigating Water Catchment Data with Composable Linked Data Architecture**<br> Andrew Fergusson, Telespazio UK and James Peacock, Department for Environment Food and Rural Affairs |
 | **14:30–14:50** | **KGs in practice 4 — AI Risk Ontologies to Support Regulatory Compliance**<br>Delaram Golpayegani, Trinity College Dublin |
-| **14:50–15:50** | **Poster session** with coffee |
+| **14:50–15:50** | **[Poster session](#posters)** with coffee |
 | **15:55–16:40** | **Panel — What the UK needs from knowledge graphs**<br>Both keynote speakers, alongside voices from industry, government and the third sector. 30 minutes of discussion, followed by 15 minutes of audience questions. |
 | **16:40–17:00** | **Close and commitments**<br>Next steps for the group: proposed working groups and leads, the next meetup date, and how to sign up and get involved. |
 | **17:00 onwards** | **Drinks and networking** at [Dame Alice Owen](https://www.damealiceowen.com/) · Less than 5 minutes from the venue |
