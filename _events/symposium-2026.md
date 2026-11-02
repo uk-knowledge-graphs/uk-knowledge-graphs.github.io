@@ -4,7 +4,7 @@ event_type: Symposium
 order: 20270102
 event_date: "Friday, November 13, 2026 (9am-5pm)"
 format: In person
-location: "City St George's University of London"
+location: "City St George's, University of London"
 summary: "5th Symposium of the UK Interest Group on Knowledge Graphs"
 # Optional fields; uncomment only when confirmed:
 # registration_url: "https://your-real-registration-page"
