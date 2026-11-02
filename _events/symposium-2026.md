@@ -101,3 +101,5 @@ Knowledge graphs are often considered the end product of a costly transformation
 - **From Chemist-Aligned Retrosynthesis to Knowledge-Grounded Scientific Predictions**, Nitisha Jain, Microsoft Research
 - **GUARD Project: Ensuring Interoperable and Trustworthy Knowledge Graphs for Defence and National Security AI**, Jon Dilworth, City St George's, University of London
 - **ELK-Em Closure-Aware Ontology Embeddings for EL<sub>+</sub><sup>⊥</sup> Ontologies: theory and applications**, Naman Singh, City St George's, University of London
+- **Knowledge graphs as substrate for agent-based models of the multilayer nexus**, Roger Cremades Rodeja, University of Leeds
+- **A Knowledge Graph Framework for Environmental Evidence Assessment: The River Wharfe Case Study**, Yaakub Nadzifah, University of Leeds
