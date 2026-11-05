@@ -33,7 +33,7 @@ City St George's, University of London, [Clerkenwell campus](https://www.citystg
 
 ### Registration
 
-Please register by November 2 via [City's e-store](https://estore.city.ac.uk/product-catalogue/conference-events/events/uk-knowledge-graphs-symposium-2026-13112026) (£30, £15 students).
+Please register by November 2 (£30, £15 students). **Registration is now closed**. Please get in touch as there are some slots for on-site registration.
 
 ### Sponsors
 
