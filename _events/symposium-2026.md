@@ -31,6 +31,8 @@ summary: "5th Symposium of the UK Interest Group on Knowledge Graphs"
 
 City St George's, University of London, [Clerkenwell campus](https://www.citystgeorges.ac.uk/about/find-contact/find/clerkenwell-campus). Lecture Theatre B200, [University Building](https://staffhub.city.ac.uk/timetabling/rooms-by-building/university-building/b200).  Directions to get to the [Lecture Theather B200](https://drive.google.com/file/d/1IZJJIYSBwjitvBUa8bKIZ38fEwwWK95f/view?usp=sharing).
 
+Online attendance (live stream) [https://echo360.org.uk/section/6301eaf1-daf2-4a47-b728-8f42853d1a73/public](https://echo360.org.uk/section/6301eaf1-daf2-4a47-b728-8f42853d1a73/public) (If you shared this link, use exactly the link before, not the one you get later in the browser.)
+
 ### Registration
 
 Please register by November 2 (£30, £15 students). **Registration is now closed**. Please get in touch as there are some slots for on-site registration.
