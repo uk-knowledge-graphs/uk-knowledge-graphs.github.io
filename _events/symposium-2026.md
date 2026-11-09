@@ -60,11 +60,11 @@ Please contact the organisers if you would like to sponsor the symposium.
 | **11:15–12:25** | **Lightning talks**, 7+3-minute talks (Chair: TBC)<br>• **Preserving and Decomposing Uncertainty in Entity Resolution for Knowledge Graphs**, Nasser Alkhulaifi, University of Nottingham<br>• **Weights Are Not Enough: Knowledge Graphs for Agentic Learning Loops**, Juraj Mavracic, Symbiotic Dynamics<br>• **Knowledge Graph Grounding for Explainable Multimodal Drug-Target Interaction Prediction**, Mahroo Safari, Razi University and Faezeh Safari, University of Exeter<br>• **Triplestore for discovery, RESTful for time series, OGC for spatial: Publishing Environmental Linked Data Without a Triplestore**, Pritam Bhudia, Telespazio UK<br>• **Engineering Trust: Strict Schemas, Polymorphism, and Compile-Time Validation in Knowledge Graphs**, Ganesh Hananda, TypeDB |
 | **12:25–12:30** | **Group photo** |
 | **12:30–13:30** | **Lunch and networking** (and [posters](#posters)) |
-|				  | **KGs in practice session** (Chair: Anelia Kurteva) |
-| **13:30–13:50** | **KGs in practice 1 — Bridging Law and Technology for Trustworthy Data Sharing and Policy**<br>Beatriz Esteves, Ghent University|
-| **13:50–14:10** | **KGs in practice 2 — THBKG: A Temporal Biomedical Knowledge Graph for Decision-Aligned Clinical Advancement Prediction**<br>Jacky Siu Pui Chung, Recursion Pharmaceuticals and Queen Mary, University of London |
-| **14:10–14:30** | **KGs in practice 3 — Spreadsheets to Shared Understanding: Navigating Water Catchment Data with Composable Linked Data Architecture**<br> Andrew Fergusson, Telespazio UK and James Peacock, Department for Environment Food and Rural Affairs |
-| **14:30–14:50** | **KGs in practice 4 — AI Risk Ontologies to Support Regulatory Compliance**<br>Delaram Golpayegani, Trinity College Dublin |
+| **13:30–14:50** | **KGs in practice session** (Chair: Anelia Kurteva) |
+| 13:30–13:50 | **KGs in practice 1 — Bridging Law and Technology for Trustworthy Data Sharing and Policy**<br>Beatriz Esteves, Ghent University|
+| 13:50–14:10 | **KGs in practice 2 — THBKG: A Temporal Biomedical Knowledge Graph for Decision-Aligned Clinical Advancement Prediction**<br>Jacky Siu Pui Chung, Recursion Pharmaceuticals and Queen Mary, University of London |
+| 14:10–14:30 | **KGs in practice 3 — Spreadsheets to Shared Understanding: Navigating Water Catchment Data with Composable Linked Data Architecture**<br> Andrew Fergusson, Telespazio UK and James Peacock, Department for Environment Food and Rural Affairs |
+| 14:30–14:50 | **KGs in practice 4 — AI Risk Ontologies to Support Regulatory Compliance**<br>Delaram Golpayegani, Trinity College Dublin |
 | **14:50–15:50** | **[Poster session](#posters)** with coffee |
 | **15:55–16:40** | **Panel — What the UK needs from knowledge graphs** (Chair: Jeff Pan)<br>Both keynote speakers, alongside voices from industry, government and the third sector. 30 minutes of discussion, followed by 15 minutes of audience questions.<br> **Panelists:**<br><ul><li>Enrico Daga (The Open University)</li><li>Anelia Kurteva (University of Birmingham)</li><li>Peter Crocker (Oxford Semantic Technologies)</li></ul>    |
 | **16:40–17:00** | **Close and commitments** (Ernesto Jimenez-Ruiz)<br>Next steps for the group: proposed working groups and leads, the next meetup date, and how to sign up and get involved. |
