@@ -98,7 +98,6 @@ Knowledge graphs are often considered the end product of a costly transformation
 - **NeSy-Gen: Neuro-Symbolic Claim Auditing and Refinement for Factual Radiology Report Generation**, Faezeh Safari, University of Exeter
 - **When Structure Falls Short: Can Semantics Help Knowledge Graph Completion?**, Muhammad Wasim, Abertay University
 - **Discovering data meanings without tables and definitions: a simple ontology on a measured substrate**, Aleksander Główka, DMG Media
-- **From Chemist-Aligned Retrosynthesis to Knowledge-Grounded Scientific Predictions**, Nitisha Jain, Microsoft Research
 - **GUARD Project: Ensuring Interoperable and Trustworthy Knowledge Graphs for Defence and National Security AI**, Jon Dilworth, City St George's, University of London
 - **ELK-Em Closure-Aware Ontology Embeddings for EL<sub>+</sub><sup>⊥</sup> Ontologies: theory and applications**, Naman Singh, City St George's, University of London
 - **Knowledge graphs as substrate for agent-based models of the multilayer nexus**, Roger Cremades Rodeja, University of Leeds
