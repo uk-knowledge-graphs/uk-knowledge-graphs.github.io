@@ -44,7 +44,7 @@ We are glad to announce the [Open Data Institute](https://theodi.org/) and the [
 Please contact the organisers if you would like to sponsor the symposium.
 
 
-![Open Data Institute logo](../../assets/images/odi-logo.png)&emsp;&emsp;&emsp;![Knowledge Graph conference logo](../../assets/images/kgc-logo.png)
+![Open Data Institute logo](../../assets/images/odi-logo.png)&emsp;&emsp;&emsp;![Knowledge Graph conference logo](../../assets/images/kgc-logo1.png)&emsp;&emsp;&emsp;![City St George's logo](../../assets/images/city-st.png)
 
 
 ### Agenda (1st version!)
@@ -64,7 +64,7 @@ Please contact the organisers if you would like to sponsor the symposium.
 | 13:30–13:50 | **KGs in practice 1 — Bridging Law and Technology for Trustworthy Data Sharing and Policy**<br>Beatriz Esteves, Ghent University|
 | 13:50–14:10 | **KGs in practice 2 — THBKG: A Temporal Biomedical Knowledge Graph for Decision-Aligned Clinical Advancement Prediction**<br>Jacky Siu Pui Chung, Recursion Pharmaceuticals and Queen Mary, University of London |
 | 14:10–14:30 | **KGs in practice 3 — Spreadsheets to Shared Understanding: Navigating Water Catchment Data with Composable Linked Data Architecture**<br> Andrew Fergusson, Telespazio UK and James Peacock, Department for Environment Food and Rural Affairs |
-| 14:30–14:50 | **KGs in practice 4 — AI Risk Ontologies to Support Regulatory Compliance**<br>Delaram Golpayegani, Trinity College Dublin |
+| 14:30–14:50 | **KGs in practice 4 — A Knowledge Graph for the IPCC's Sixth Assessment Report (AR6)**<br>Simon Worthington, #semanticClimate |
 | **14:50–15:50** | **[Poster session](#posters)** with coffee |
 | **15:55–16:40** | **Panel — What the UK needs from knowledge graphs** (Chair: Jeff Pan)<br>Both keynote speakers, alongside voices from industry, government and the third sector. 30 minutes of discussion, followed by 15 minutes of audience questions.<br> **Panelists:**<br>•Enrico Daga (The Open University)<br>•Anelia Kurteva (University of Birmingham)<br>•Peter Crocker (Oxford Semantic Technologies)    |
 | **16:40–17:00** | **Close and commitments** (Ernesto Jimenez-Ruiz)<br>Next steps for the group: proposed working groups and leads, the next meetup date, and how to sign up and get involved. |
