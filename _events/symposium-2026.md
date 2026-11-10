@@ -44,7 +44,7 @@ We are glad to announce the [Open Data Institute](https://theodi.org/) and the [
 Please contact the organisers if you would like to sponsor the symposium.
 
 
-![Open Data Institute logo](../../assets/images/odi-logo.png)&emsp;&emsp;&emsp;![Knowledge Graph conference logo](../../assets/images/kgc-logo1.png)&emsp;&emsp;&emsp;![City St George's logo](../../assets/images/city-st.png)
+| &emsp;&emsp; ![Open Data Institute logo](../../assets/images/odi-logo.png)&emsp;&emsp; | &emsp;&emsp;![Knowledge Graph conference logo](../../assets/images/kgc-logo1.png)&emsp;&emsp; | &emsp;&emsp;![City St George's logo](../../assets/images/city-st.png) &emsp;&emsp; |
 
 
 ### Agenda (1st version!)
