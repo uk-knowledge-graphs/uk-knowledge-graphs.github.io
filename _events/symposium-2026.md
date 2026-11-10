@@ -66,7 +66,7 @@ Please contact the organisers if you would like to sponsor the symposium.
 | 14:10–14:30 | **KGs in practice 3 — Spreadsheets to Shared Understanding: Navigating Water Catchment Data with Composable Linked Data Architecture**<br> Andrew Fergusson, Telespazio UK and James Peacock, Department for Environment Food and Rural Affairs |
 | 14:30–14:50 | **KGs in practice 4 — A Knowledge Graph for the IPCC's Sixth Assessment Report (AR6)**<br>Simon Worthington, #semanticClimate |
 | **14:50–15:50** | **[Poster session](#posters)** with coffee |
-| **15:55–16:40** | **Panel — What the UK needs from knowledge graphs** (Chair: Jeff Pan)<br>Both keynote speakers, alongside voices from industry, government and the third sector. 30 minutes of discussion, followed by 15 minutes of audience questions.<br> **Panelists:**<br>•Enrico Daga (The Open University)<br>•Anelia Kurteva (University of Birmingham)<br>•Peter Crocker (Oxford Semantic Technologies)    |
+| **15:55–16:40** | **Panel — What the UK needs from knowledge graphs** (Chair: Jeff Pan)<br>Both keynote speakers, alongside voices from industry, government and the third sector. 30 minutes of discussion, followed by 15 minutes of audience questions.<br> **Panelists:**<br>• Enrico Daga (The Open University)<br>• Anelia Kurteva (University of Birmingham)<br>• Peter Crocker (Oxford Semantic Technologies)<br>• James Peacock (Department for Environment, Food & Rural Affairs)   |
 | **16:40–17:00** | **Close and commitments** (Ernesto Jimenez-Ruiz)<br>Next steps for the group: proposed working groups and leads, the next meetup date, and how to sign up and get involved. |
 | **17:00 onwards** | **Drinks and networking** at [Dame Alice Owen](https://www.damealiceowen.com/) · Less than 5 minutes from the venue |
 
