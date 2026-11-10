@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 520 420" width="520" height="420" role="img" aria-label="UK knowledge graph network">
+  <defs>
+    <!-- Remove the dark pixels, leaving the coloured network on a transparent background. -->
+    <filter id="remove-dark" color-interpolation-filters="sRGB">
+      <feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  .319 1.073 .108 0 -.12"/>
+    </filter>
+    <!-- Two intersecting masks soften all four sides, without a rectangular image edge. -->
+    <linearGradient id="horizontal">
+      <stop offset="0" stop-color="black"/>
+      <stop offset=".16" stop-color="white"/>
+      <stop offset=".84" stop-color="white"/>
+      <stop offset="1" stop-color="black"/>
+    </linearGradient>
+    <linearGradient id="vertical" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="black"/>
+      <stop offset=".19" stop-color="white"/>
+      <stop offset=".81" stop-color="white"/>
+      <stop offset="1" stop-color="black"/>
+    </linearGradient>
+    <mask id="fade-sides" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse" x="0" y="0" width="520" height="420">
+      <rect width="520" height="420" fill="url(#horizontal)"/>
+    </mask>
+    <mask id="fade-top-bottom" maskContentUnits="userSpaceOnUse" maskUnits="userSpaceOnUse" x="0" y="0" width="520" height="420">
+      <rect width="520" height="420" fill="url(#vertical)"/>
+    </mask>
+  </defs>
+  <g mask="url(#fade-top-bottom)">
+    <g mask="url(#fade-sides)" filter="url(#remove-dark)">
+      <image x="0" y="64" width="520" height="292" href="uk-network.png" xlink:href="uk-network.png" preserveAspectRatio="xMidYMid meet"/>
+    </g>
+  </g>
+</svg>
