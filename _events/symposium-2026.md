@@ -105,4 +105,4 @@ Knowledge graphs are often considered the end product of a costly transformation
 - **ELK-Em Closure-Aware Ontology Embeddings for EL<sub>+</sub><sup>⊥</sup> Ontologies: theory and applications**, Naman Singh, City St George's, University of London
 - **Knowledge graphs as substrate for agent-based models of the multilayer nexus**, Roger Cremades Rodeja, University of Leeds
 - **A Knowledge Graph Framework for Environmental Evidence Assessment: The River Wharfe Case Study**, Yaakub Nadzifah, University of Leeds
-- **From Expertise to Inference: Meet RDFox Mantix**, James Boyd, Oxford Semantic Technologies 
+- **From Expertise to Inference: Meet RDFox Mantix (demo)**, James Boyd, Oxford Semantic Technologies 
