@@ -5,6 +5,8 @@ baseurl: ""
 lang: en-GB
 markdown: kramdown
 permalink: pretty
+plugins:
+  - jekyll-sitemap
 collections:
   events:
     output: true
@@ -20,5 +22,3 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - _templates
-plugins:
-  - jekyll-sitemap
