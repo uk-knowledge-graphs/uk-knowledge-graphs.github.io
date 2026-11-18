@@ -20,3 +20,5 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - _templates
+plugins:
+  - jekyll-sitemap
